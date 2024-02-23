@@ -142,7 +142,7 @@
       this[globalName] = mainExports;
     }
   }
-})({"gzrwE":[function(require,module,exports) {
+})({"bnTUh":[function(require,module,exports) {
 "use strict";
 var global = arguments[3];
 var HMR_HOST = null;
@@ -522,6 +522,6 @@ stopButton.addEventListener("click", ()=>{
     clearInterval(intervalId);
 });
 
-},{}]},["gzrwE","cYUEh"], "cYUEh", "parcelRequire7bc7")
+},{}]},["bnTUh","cYUEh"], "cYUEh", "parcelRequire7bc7")
 
 //# sourceMappingURL=01-color-switcher.52e3b619.js.map
