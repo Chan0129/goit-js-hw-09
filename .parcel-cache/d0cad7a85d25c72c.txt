@@ -1,7 +1,7 @@
 5034
 115C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\dom-serializer\node_modules\entities\lib\maps\xml.json133528755091551283 0
 103C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\flatpickr\dist\esm\plugins\momentPlugin.js133529594947485384 0
-68C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\@parcel133529666994781447 1
+68C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\@parcel133530515791552662 1
 106C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\@parcel\transformer-raw\src\RawTransformer.js133528755050184273 0
 90C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\flatpickr\dist\esm\l10n\eo.js133529594940814911 0
 93C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\@swc\helpers\src\_ts_decorate.js133528755194071372 0
@@ -53,7 +53,7 @@
 113C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\contentsecuritypolicy2.js133528755182857494 0
 77C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\stable\README.md133528755037349575 0
 78C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\nth-check\LICENSE133528754998263213 0
-65C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\package-lock.json133529666996845744 0
+65C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\package-lock.json133530515792909292 0
 103C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\@parcel\core\lib\requests\TargetRequest.js133528755194021368 0
 55C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\.hintrc133529665938775662 0
 120C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\posthtml-include\node_modules\posthtml-parser\dist\index.js133528755047350123 0
@@ -108,13 +108,13 @@
 92C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\caniuse-lite\data\regions\CR.js133528755183797581 0
 89C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\electron-to-chromium\LICENSE133528754998493223 0
 99C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\cosmiconfig\dist\ExplorerSync.d.ts.map133528755117019762 0
-52C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\dist133530507911776202 1
+52C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\dist133530677329476679 1
 67C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\base-x133528755059894410 1
 86C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\flatpickr\dist\l10n\th.js133529594953771567 0
 110C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\hardwareconcurrency.js133528755240778526 0
-60C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules133529666994781447 1
+60C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules133530515791552662 1
 80C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\yaml\types\pairs.js133528755119951357 0
-78C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\@msgpackr-extract133529666994781447 1
+78C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\@msgpackr-extract133530515791552662 1
 101C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\lmdb\dependencies\v8\v8-fast-api-calls.h133528755183737582 0
 93C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\svgo\plugins\_applyTransforms.js133528755048249950 0
 92C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\@parcel\reporter-dev-server\src133528755124742683 1
@@ -148,7 +148,7 @@
 90C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\flatpickr\dist\esm\l10n\da.js133529594936929947 0
 92C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\parcel-reporter-clean-dist\test133528755116999759 1
 92C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\caniuse-lite\data\regions\BG.js133528755162458639 0
-69C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\src\js\03-promises.js133530507910281569 0
+69C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\src\js\03-promises.js133530677326684606 0
 60C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\README.ro.md133515230130000000 0
 92C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\caniuse-lite\data\regions\FK.js133528755202062627 0
 103C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\documenthead.js133528755201016694 0
@@ -163,7 +163,7 @@
 90C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\@parcel\utils\src\throttle.js133528755164014383 0
 112C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\@parcel\transformer-react-refresh-wrap\package.json133528755087445788 0
 87C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\@nodelib\fs.stat\out\types133528755107843358 1
-68C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\src\03-promises.html133530502993759104 0
+68C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\src\03-promises.html133530676720195190 0
 88C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\flatpickr\dist\l10n\uz.d.ts133529594964678855 0
 91C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\@parcel\fs-search\package.json133528755037649607 0
 71C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\color-name133528755057418823 1
@@ -191,7 +191,7 @@
 92C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\fast-glob\out\utils\string.d.ts133528755158238682 0
 72C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\ansi-styles133528755066609255 1
 118C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\040-presets.md133528755162298641 0
-79C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\.package-lock.json133529666997880918 0
+79C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\.package-lock.json133530515793713349 0
 94C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\url.js133528755268550313 0
 67C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\@babel133528754902578803 1
 86C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\queue-microtask\README.md133528755058098869 0
@@ -860,7 +860,7 @@
 77C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\svgo\lib\svgo.js133528755168327817 0
 81C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\caniuse-lite\LICENSE133528754999633319 0
 95C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\utility-types\dist\mapped-types.js133528755067956845 0
-75C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\dist\01-color-switcher.html133530469892089567 0
+75C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\dist\01-color-switcher.html133530677329334491 0
 88C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\@parcel\watcher\binding.gyp133528755114527208 0
 82C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\dotenv-expand\LICENSE133528755059864404 0
 71C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\@parcel\fs133528755119961357 1
@@ -1030,7 +1030,7 @@
 112C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\posthtml\node_modules\posthtml-parser\dist\index.js133528755047350123 0
 88C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\type-fest\source\entry.d.ts133528755106763263 0
 77C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\terser\lib\utils133528755147677718 1
-63C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\dist\index.html133530469892089567 0
+63C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\dist\index.html133530677329334491 0
 87C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\svgo\plugins\removeDesc.js133528755156448532 0
 89C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\type-fest\source\except.d.ts133528755109660473 0
 83C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\term-size\package.json133528755084981059 0
@@ -1165,7 +1165,7 @@
 88C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\flatpickr\dist\l10n\pa.d.ts133529594960858601 0
 136C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\package.json133528755073849508 0
 72C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\terser\dist133528755161360567 1
-78C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\dist\goit-js-hw-09.59712999.js133530469892079592 0
+78C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\dist\goit-js-hw-09.59712999.js133530677329150417 0
 86C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\flatpickr\dist\l10n\da.js133529594936969915 0
 75C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\terser\main.js133528755154324391 0
 88C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\terser\lib\equivalent-to.js133528755142265115 0
@@ -1638,7 +1638,7 @@
 106C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\@swc\helpers\lib\_class_private_field_init.js133528755127101985 0
 70C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\lmdb\util133528755187970889 1
 112C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\@swc\helpers\lib\_class_private_field_loose_base.js133528755127672178 0
-87C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css.map133530469892089567 0
+87C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css.map133530677329150417 0
 118C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\react-refresh\cjs\react-refresh-runtime.production.min.js133528755079561589 0
 84C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\react-error-overlay\lib133528755002793583 1
 79C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\nan\doc\methods.md133528755148058784 0
@@ -3034,12 +3034,12 @@
 116C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\dom-serializer\node_modules\entities\lib\index.d.ts.map133528755108043372 0
 106C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\dom-serializer\node_modules\entities\lib\maps133528755090986869 1
 123C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\abortcontroller-polyfill\dist\abortcontroller-polyfill-only.js133528755057518814 0
-77C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\dist\02-timer.f9388f03.js.map133530469892355737 0
+77C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\dist\02-timer.f9388f03.js.map133530677329334491 0
 118C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\dom-serializer\node_modules\entities\lib\maps\decode.json133528755079571588 0
 110C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\@parcel\transformer-image\src\ImageTransformer.js133528755055828868 0
 83C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\dom-serializer\lib\esm133528755110030511 1
 97C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\dom-serializer\lib\foreignNames.d.ts133528755108003372 0
-69C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\dist\03-promises.html133530502995343554 0
+69C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\dist\03-promises.html133530677329334491 0
 90C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\dom-serializer\lib\index.d.ts133528755111332814 0
 108C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\@parcel\core\src\requests\WriteBundleRequest.js133528755195126045 0
 105C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\caniuse-lite\data\features\iframe-sandbox.js133528755256019988 0
@@ -4007,7 +4007,7 @@
 76C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\braces\index.js133528755037559600 0
 77C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\braces\README.md133528755068126863 0
 84C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\braces\lib\constants.js133528755081741372 0
-82C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\dist\01-color-switcher.52e3b619.js133530469892089567 0
+82C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\dist\01-color-switcher.52e3b619.js133530677329150417 0
 108C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\@parcel\package-manager\src\NodeResolverBase.js133528755137908804 0
 80C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\braces\lib\parse.js133528755087895803 0
 78C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\boolbase\index.js133528755037559600 0
@@ -4648,7 +4648,7 @@
 88C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\@parcel\events\src\index.js133528755086255373 0
 88C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\@parcel\events\lib\index.js133528755083949722 0
 88C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\@parcel\events\lib\types.js133528755087876798 0
-86C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\dist\01-color-switcher.52e3b619.js.map133530469892486037 0
+86C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\dist\01-color-switcher.52e3b619.js.map133530677329334491 0
 95C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\@parcel\events\lib\ValueEmitter.js133528755092027846 0
 83C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\@parcel\diagnostic\lib133528755079303393 1
 87C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\@parcel\diagnostic\LICENSE133528754998953265 0
@@ -4983,7 +4983,7 @@
 113C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\@babel\highlight\node_modules\color-convert\index.js133528755065702514 0
 112C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\@babel\highlight\node_modules\color-convert\LICENSE133528755072099273 0
 117C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\@babel\highlight\node_modules\color-convert\package.json133528754999993348 0
-73C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\dist\02-timer.f9388f03.js133530469892089567 0
+73C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\dist\02-timer.f9388f03.js133530677329150417 0
 114C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\@babel\highlight\node_modules\color-convert\README.md133528755079143380 0
 102C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\@babel\highlight\node_modules\chalk\types133528755083959756 1
 113C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\@babel\highlight\node_modules\chalk\types\index.d.ts133528755084259759 0
@@ -5025,11 +5025,11 @@
 74C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\.bin\svgo.cmd133528755270501512 0
 74C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\.bin\svgo.ps1133528755270501512 0
 72C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\node_modules\.bin\terser133528755270511513 0
-83C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css133530469892089567 0
-66C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\dist\02-timer.html133530469892355737 0
-76C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\dist\03-promises.cd58c9ff.js133530507911776202 0
-80C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\dist\03-promises.cd58c9ff.js.map133530507911776202 0
-82C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\dist\goit-js-hw-09.59712999.js.map133530469892355737 0
+83C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css133530677329150417 0
+66C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\dist\02-timer.html133530677329334491 0
+76C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\dist\03-promises.cd58c9ff.js133530677329150417 0
+80C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\dist\03-promises.cd58c9ff.js.map133530677329150417 0
+82C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\dist\goit-js-hw-09.59712999.js.map133530677329334491 0
 71C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\assets\how-it-works.png133515230130000000 0
 72C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\assets\repo-settings.png133515230130000000 0
 76C:\Users\HP\Desktop\IT WORKS\GOIT\goit-js-hw-09\.github\workflows\deploy.yml133515230130000000 0
